@@ -1,0 +1,19 @@
+@import 'node_modules/@livelybone/vue-datepicker/lib/css/index.scss';
+
+.is-rounded img {
+	border-radius: 300000px;
+}
+
+figure {
+	margin-right: 0.5rem;
+}
+
+.is-leveled {
+	justify-content: space-between; 
+}
+
+.my-small-text td {
+	font-size: 13px;
+}
+
+.mce-notification {display: none !important;}

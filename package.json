@@ -1,0 +1,34 @@
+{
+  "name": "floqclient",
+  "version": "1.0.0",
+  "description": "My super-excellent Nuxt.js project",
+  "author": "dannysibarani",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-brands-svg-icons": "^5.10.2",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
+    "@fortawesome/vue-fontawesome": "^0.1.6",
+    "@livelybone/vue-datepicker": "^3.1.0",
+    "@nuxtjs/auth": "^4.8.1",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/bulma": "^1.2.1",
+    "@tinymce/tinymce-vue": "^3.0.1",
+    "node-sass": "^4.12.0",
+    "nuxt": "^2.0.0",
+    "nuxt-fontawesome": "^0.4.0",
+    "sass-loader": "^7.3.1",
+    "serve-placeholder": "^1.2.1",
+    "tinymce": "^5.0.16",
+    "tiptap": "^1.26.3",
+    "tiptap-extensions": "^1.28.3",
+    "vue2-editor": "^2.10.2"
+  },
+  "devDependencies": {}
+}
